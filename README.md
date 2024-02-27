@@ -1,5 +1,5 @@
-#On Progress ⚙️
-##A TypeScript project leveraging RAG Architecture to effortlessly digest and present research papers using Langchain and Langsmith
+# On Progress ⚙️
+## A TypeScript project leveraging RAG Architecture to effortlessly digest and present research papers using Langchain and Langsmith
 
 This monorepo uses Turborepo to manage the two packages (web, api).
 To build all packages run `yarn build` from root.
