@@ -1,4 +1,5 @@
 # On Progress ⚙️
+# Inspired from - [ bracesproul Brace Sproul ]
 ## A TypeScript project leveraging RAG Architecture to effortlessly digest and present research papers using Langchain and Langsmith
 
 This monorepo uses Turborepo to manage the two packages (web, api).
